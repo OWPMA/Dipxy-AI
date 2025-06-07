@@ -2,6 +2,7 @@
 This is a AI based in python without needing the use of a api key
 # Installation 
 * Linux
+
   sudo apt update
   sudo apt install git
   sudo apt install python3-pip
@@ -9,6 +10,7 @@ This is a AI based in python without needing the use of a api key
   cd Dipxy-AI
   pip3 install requests
   python3 dipxyai.py
+  
   * Termux
     pkg update
     pkg upgrade
