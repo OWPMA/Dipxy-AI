@@ -11,13 +11,12 @@ This is a AI based in python without needing the use of a api key
   
   git clone https://github.com/OWPMA/Dipxy-AI
   
-  cd Dipxy-AI
-  
   pip3 install requests
   
   python3 dipxyai.py
   
   * Termux
+    
     pkg update
     
     pkg upgrade
@@ -31,8 +30,6 @@ This is a AI based in python without needing the use of a api key
     pkg install python
     
     git clone https://github.com/OWPMA/Dipxy-AI
-    
-    cd Dipxy-AI
     
     python dipxyai.py
    # Common-errors
