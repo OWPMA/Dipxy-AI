@@ -44,6 +44,7 @@ This is a AI based in python without needing the use of a api key
     python dipxyai.py
 
    *Windows/android
+  
     Click on "code and download zip"
 
     extract it's content and run dipxyai.py
